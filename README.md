@@ -1,4 +1,4 @@
-# Notes-on-the-use-of-the-software
+# Programming notes
 这个仓库是用来存放各类软件的使用说明，与环境搭建
 ## 软件使用目录
 - Markdown使用语法
