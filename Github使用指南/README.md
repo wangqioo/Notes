@@ -5,4 +5,7 @@
 
 ## Vscode链接Github仓库及上传注意事项
 - 点击source control，点击Commit
+- 此时要注意填写提交说明，并大点击√确认
 
+![alt text](image.png)
+- 
