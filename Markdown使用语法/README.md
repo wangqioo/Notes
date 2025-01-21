@@ -8,3 +8,21 @@
 - 插入代码块：```shel  其中shell为代码类型,代码块结束：```
 - 预览效果：Ctrl+Shift+V
 
+# Markdown 交叉引用
+1. Markdown 引用同一个文件的某一标题
+[title](#title)
+
+使用 # 选中章节
+将大写字母改成小写
+去掉括号 （） 。 . 等特殊字符
+空格用 - 替代
+
+2. Markdown 引用另一个文件
+[title](./dir/file.md)
+可以用相对文件路径
+其它注意事项同上
+
+3. Markdown 引用另一个文件的某一标题
+[title](./dir/file.md#title)
+可以用相对文件路径
+其它注意事项同上
