@@ -28,6 +28,7 @@
 
 最后打开git bash，并修改端口号
 git config --global http.proxy 127.0.0.1:当前端口号
+
 git config --global https.proxy 127.0.0.1:当前端口号
 
 此方法参考以下网页
@@ -37,4 +38,26 @@ git config --global https.proxy 127.0.0.1:当前端口号
 
 ![alt text](b3bf2d79ff0f7be734f3df14b47a5b7.png)
 
-[参考此文章链接](https://huaweicloud.csdn.net/63a570e1b878a545459474b0.html?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Eactivity-1-109855178-blog-97565768.235%5Ev38%5Epc_relevant_anti_t3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Eactivity-1-109855178-blog-97565768.235%5Ev38%5Epc_relevant_anti_t3&utm_relevant_index=1)
+[参考文章链接](https://huaweicloud.csdn.net/63a570e1b878a545459474b0.html?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Eactivity-1-109855178-blog-97565768.235%5Ev38%5Epc_relevant_anti_t3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Eactivity-1-109855178-blog-97565768.235%5Ev38%5Epc_relevant_anti_t3&utm_relevant_index=1)
+
+4. 出现要配置邮箱和姓名的问题
+
+![alt text](image-5.png)
+
+// 配置邮箱
+
+git config --global user.email "1823871691@qq.com"
+ 
+// 配置用户名
+
+git config --global user.name "wangqioo"
+
+[参考文章链接](https://blog.csdn.net/qq_41271930/article/details/117514127)
+
+5. 想要删除从github下载的仓库，发现正在运行
+
+解决措施：
+- 在vscode里移除
+
+
+
