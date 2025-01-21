@@ -54,10 +54,10 @@ git config --global user.name "wangqioo"
 
 [参考文章链接](https://blog.csdn.net/qq_41271930/article/details/117514127)
 
-5. 想要删除从github下载的仓库，发现正在运行
+5. 想要删除从github下载的仓库，发现正在运行，删除不了
 
 解决措施：
-- 在vscode里移除
-
+- 在vscode里关闭此文件夹
+- 再去电脑里此文件夹所在位置手动删除
 
 
