@@ -57,6 +57,34 @@ conda create -n myenv numpy
 - 查看当前环境下已安装的包名：conda list
 - 创建新环境：conda creat -n + 环境名 + Python=3.x ;创建好的环境在anaconda3/envs下
 - 切换环境：conda activate + 环境名
-- 退出当前环境：conda deactivate + 环境名
+- 退出当前环境：conda deactivate ； 退出当前所在环境    
 - 删除某个环境：conda remove -n + 环境名 + --all ; 删除该环境及其所含的所有包
 
+# 安装PyTorch
+现阶段最流行的机器学习和深度学习框架，无论是在学术界还是工程界，PyTorch都占据半壁江山，其他的例如Tensorflow.
+
+简单来说，PyTorch就是个计算工具，能够借助它使得计算机完成复杂运算
+
+Py:Python; Torch:火炬，理解成能在GPU中计算的矩阵
+
+- 安装PyTorch，要注意选择对应的cuda版本 
+![alt text](image-4.png)
+![alt text](image-5.png)
+- 打开Anaconda Prompt,并创建新的学习Pytorch环境，注意！一定要指定python版本，负责接下来下载pytorch时会报错
+- 选择对应的cuda版本并在刚才的环境中粘贴下载指令，（我这里是cpu版本的）一键下载：conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+# Numpy
+这是python中基础且重要的科学计算库，是入门机器学习的必要学习,Numpy是Numerical Python的缩写
+
+最核心的是它提供了一个n维数组对象ndarray,即N-dimensional arry的缩写
+
+Numpy与接下来要学习的Tensorflow中的最基本计算单元tensor有着非常类似的计算结构，可以帮助学习tensor(张量)
+- 安装numpy：conda install numpy
+- 进入python环境>>>
+- 导入Numpy：import numpy as np
+- numpy常用步骤
+1. 数组的创建
+2. 数组的索引
+3. 数组的运算与数学统计函数
+
+[继续学习的视频链接](https://www.bilibili.com/video/BV1qv4y1T7kw/?share_source=copy_web&vd_source=c7eacf65356bd9b3ebb5403b8ff1d512)
