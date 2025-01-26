@@ -1,0 +1,4 @@
+# 耿直哥深度学习笔记
+[耿直哥笔记](https://gengzhige-essay.readthedocs.io/docs/02%20%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/index.html)
+
+[耿直哥深度学习书籍，两本](https://detail.tmall.com/item.htm?from=cart&id=844223178507&pisk=gWFsf-G_Lhx_ZOt3SGQEVUaUDJlbho1PGEgYrrdwkfhtcjabyxdVIfkjGknU_czZ6mGblzHY0mzwSJqzyCPNIjRjsjcA4g5PaF4iij3Y72YBjD3jysJtBqhi9lodFBfPaP4B7VQzJ_PwgAWqrKdYDAHKJ4oKWVdtWwGKlqGv6xd9pHnnkjhxHILK943SDh3xHwTKr43xkcH9ve3rkhhxMoUdRqcAsHghCDz15JlEuuLjkPnBMIFOiAiSSKRXGWgsC74tAyzUOVMs2vb93JNTYrFasvX6Bj4UFowY2MJZX8g7AYy1VCZ7jqUjkl1kPDF_lWMgLhptPfise5HRgazKHJNI_5IDEyzIXYGUL9jZ3fZ_E0DOKMqbRcrY1vK1Ymyz85HQ2MRQmxwY_XFOv_szpQo58LJXRYAjR07CRKvcmmALu-nShNHt-2lPRw9ynA3nR07CRKvmB20HUw_BUKf..&skuId=5621369184492&spm=a1z0d.6639537%2F202410.item.d844223178507.7ac87484SE5fiP)

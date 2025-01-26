@@ -88,3 +88,5 @@ Numpy与接下来要学习的Tensorflow中的最基本计算单元tensor有着�
 3. 数组的运算与数学统计函数
 
 [继续学习的视频链接](https://www.bilibili.com/video/BV1qv4y1T7kw/?share_source=copy_web&vd_source=c7eacf65356bd9b3ebb5403b8ff1d512)
+
+# Tensor
